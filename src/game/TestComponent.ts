@@ -1,6 +1,6 @@
 /**
  * @File   : TestComponent.ts
- * @Author : 瞬光 (shunguang.dty@alibaba-inc.com)
+ * @Author : dtysky (dtysky@outlook.com)
  * @Date   : 2019/10/23 下午2:58:06
  * 
  */

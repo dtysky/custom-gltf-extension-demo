@@ -1,6 +1,6 @@
 /**
  * @File   : webpack.config.js
- * @Author : 瞬光 (shunguang.dty@alibaba-inc.com)
+ * @Author : dtysky (dtysky@outlook.com)
  * @Date   : Wed Oct 23 2019
  * @Description: 
  */
