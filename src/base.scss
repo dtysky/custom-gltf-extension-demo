@@ -1,0 +1,22 @@
+/**
+ * @File   : base.scss
+ * @Author : 瞬光 (shunguang.dty@alibaba-inc.com)
+ * @Date   : Wed Oct 23 2019
+ * @Description: Style.
+ */
+ html, body, #container {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  width: 100%;
+  height: 100%;
+}
+
+.game {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
